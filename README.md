@@ -1,2 +1,2 @@
-# citiy-state-sql
-State and city tables for mySQL
+# city-state-sql
+States and cities of Iran in tables for mySQL
